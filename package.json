@@ -2,7 +2,7 @@
   "name": "frontend",
   "private": true,
   "version": "0.0.0",
-  "homepage": "https://filipskubis.github.io/",
+  "homepage": "https://filipskubis.github.io/pokedex/",
   "type": "module",
   "scripts": {
     "lint": "eslint .",
